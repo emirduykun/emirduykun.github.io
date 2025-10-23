@@ -3,8 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Top şahin oyunu</title>
-<style>
-    body {
+
         display: flex;
         flex-direction: column;
         align-items: center;
