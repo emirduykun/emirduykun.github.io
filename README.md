@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>Top Oyunu</title>
+<title>Top şahin oyunu</title>
 <style>
     body {
         display: flex;
